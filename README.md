@@ -1,6 +1,6 @@
 # Data Science Internship @LetsGrowMore
 
-This repository contains tasks that i have completed as data science intern at LetsGrowMore.
+This repository contains the tasks that I have completed as an data science intern at LetsGrowMore.
 
 ## Name :- Omkar Rajendra Lokhande 
 
