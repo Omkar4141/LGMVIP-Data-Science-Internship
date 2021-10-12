@@ -19,7 +19,7 @@ This repository contains the tasks that I have completed as an data science inte
 
 DataSet Link : https://bit.ly/2TK5Xn5
 
-#### I have solved following questions related to the given dataset.
+#### I have solved following questions on the basis of given dataset.
 * Data Visualization between year and no of terrorist attack ?
 * Data Visualization between Number of terrorists activities and Countries ?
 * Top 30 Countries in terms of Causalities ?
