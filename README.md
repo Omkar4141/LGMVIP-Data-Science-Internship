@@ -10,7 +10,8 @@ This repository contains the tasks that I have completed as an data science inte
 
 ### Image To Sketch :-
 <img src="https://github.com/Omkar4141/LGMVIP-Data-Science/blob/main/Rohit.jpg" height="500" width="395" align="left">
-<img src="https://github.com/Omkar4141/LGMVIP-Data-Science/blob/main/Screenshot (323).png" height="500" width="395" align="right"><br>
+<img src="https://github.com/Omkar4141/LGMVIP-Data-Science/blob/main/Screenshot (323).png" height="500" width="395" align="right">
+<br />
 
 
 ### Task 2 :-Image to Pencil Sketch with Python.
